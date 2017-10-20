@@ -1,0 +1,8 @@
+npm install --save-dev eslint-config-rallycoding
+ 
+
+creat file named .eslintrc
+ contains : 
+{
+  "extends": "rallycoding"
+}
